@@ -308,6 +308,7 @@ footer .footer-logo {
 
 footer .footer-logo img {
     width: 10%;
+    filter: brightness(0) invert(1);
 }
 
 footer .fourth-text {
